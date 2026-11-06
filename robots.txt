@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://l1zardd-f.github.io/avtomalyar/sitemap.xml
